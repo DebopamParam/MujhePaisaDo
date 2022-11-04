@@ -1,16 +1,12 @@
-# mi_card_flutter
+# Mujhe Paisa Do
 
-A new Flutter project.
+Simple front page with a Button that Redirects to a UPI payment link from which you can pay 1Rs(Fixed) 
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+It was one of the first app that I had built , when I started my learning journey
 
-A few resources to get you started if this is your first Flutter project:
+Afew weeks ago , We gave a farewell party of our Physics teacher. As an organiser I owed aFew people of our Class some money .
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+So I thought this would be a great way to Get back that money 😁
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
